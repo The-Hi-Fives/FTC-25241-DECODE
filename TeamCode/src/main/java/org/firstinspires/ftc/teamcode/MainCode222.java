@@ -74,7 +74,7 @@ public class MainCode222 extends LinearOpMode{
             }else{
                 intake.setPower(0);
             }
-
+            //hello
 
 
             if(gamepad2.right_bumper) {
